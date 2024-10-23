@@ -45,12 +45,14 @@ Our data contains information about UK e-commerce purchase from 2011.
 
 ---
 ## 📝 **Problem Background**
+
 Dalam industri e-commerce yang kompetitif, mempertahankan loyalitas pelanggan menjadi tantangan utama. Pelanggan seringkali merasa kurang mendapatkan perhatian dan respons cepat saat menghadapi masalah, memiliki pertanyaan tentang produk, atau memerlukan bantuan selama proses pembelian. Ketidakpuasan ini dapat mengurangi pengalaman pelanggan, menurunkan tingkat retensi, dan mengakibatkan hilangnya peluang untuk menciptakan hubungan jangka panjang yang lebih kuat dengan pelanggan.
 
 Untuk mengatasi tantangan ini, diperlukan solusi yang dapat memberikan pelayanan cepat, personal, dan responsif bagi pelanggan. Chatbot voice dan vision berbasis AI dapat menjadi solusi strategis untuk meningkatkan loyalitas pelanggan dengan memberikan pengalaman yang lebih baik, dukungan 24/7, dan interaksi yang relevan sesuai kebutuhan pelanggan.
 
 ---
 ## 🎯 **Objective**
+
 Mengembangkan chatbot berbasis AI untuk meningkatkan loyalitas pelanggan pada platform e-commerce dengan cara menyediakan dukungan pelanggan yang responsif, personal, dan efektif 24/7, serta menciptakan pengalaman pengguna yang lebih interaktif, menyenangkan, dan memuaskan.
 ---
 ## 🚀 **Deployment & Dashboard**
