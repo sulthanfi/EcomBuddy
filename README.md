@@ -54,6 +54,7 @@ Untuk mengatasi tantangan ini, diperlukan solusi yang dapat memberikan pelayanan
 ## 🎯 **Objective**
 
 Mengembangkan chatbot berbasis AI untuk meningkatkan loyalitas pelanggan pada platform e-commerce dengan cara menyediakan dukungan pelanggan yang responsif, personal, dan efektif 24/7, serta menciptakan pengalaman pengguna yang lebih interaktif, menyenangkan, dan memuaskan.
+
 ---
 ## 🚀 **Deployment & Dashboard**
 We deployed our analysis result and predictor model on the web.
