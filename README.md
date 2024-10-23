@@ -36,7 +36,7 @@ Data Scientist<br>
 
 - Khalil Zufar <br>
 Data Engineer<br>
-    [GitHub](https://github.com/khalilzufar) | [LinkedIn](www.linkedin.com/in/khalil-zufar/)
+    [GitHub](https://github.com/khalilzufar) | [LinkedIn](https://www.linkedin.com/in/khalil-zufar/)
 
 --- 
 ## 💾 **Dataset**
