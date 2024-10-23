@@ -5,7 +5,7 @@
 
 <div align='center'>
     <h1><b>ECOMBUDDY</b></h1>
-    <img src='logo.png' width="256"/>
+    <img src='ECOMBUDDY.png' width="256"/>
     <br><br>
     <p>Your friendly shopping companion, EcomBuddy is designed to enhance your online shopping experience. With personalized recommendations, real-time support, and insights tailored just for you, this chatbot helps you discover products you'll love while fostering loyalty and preventing churn. Whether you need assistance or just want to chat about the latest trends, EcomBuddy is here to make your shopping journey enjoyable and effortless.</p>
     <br>
