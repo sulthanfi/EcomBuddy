@@ -7,7 +7,7 @@
     <h1><b>ECOMBUDDY</b></h1>
     <img src='logo.png' width="256"/>
     <br><br>
-    <p>A program to categorize and predict customer complaints to help us decide the right action for each category.</p>
+    <p>Your friendly shopping companion, EcomBuddy is designed to enhance your online shopping experience. With personalized recommendations, real-time support, and insights tailored just for you, this chatbot helps you discover products you'll love while fostering loyalty and preventing churn. Whether you need assistance or just want to chat about the latest trends, EcomBuddy is here to make your shopping journey enjoyable and effortless.</p>
     <br>
 
 ![Python](https://badgen.net/badge/Python/3.9.18/blue?)
