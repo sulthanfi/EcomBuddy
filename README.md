@@ -29,19 +29,19 @@
 ## 👨🏻‍👩🏻‍👦🏻‍👦🏻 **Team Members**
 - Sulthan Fachry  
 Data Scientist & Data Analyst<br>
-    [GitHub](https://github.com/weewoo2636) | [LinkedIn](https://www.linkedin.com/in/wilson-773134243/)
+    [GitHub](https://github.com/sulthanfi) | [LinkedIn](https://www.linkedin.com/in/wilson-773134243/)
 
 - Abimanyu Maheswara<br>
 Data Analyst<br>
-    [GitHub](https://github.com/tasyamla) | [LinkedIn](https://www.linkedin.com/in/tasyamla/)
+    [GitHub](https://github.com/abimanyukayana) | [LinkedIn](https://www.linkedin.com/in/tasyamla/)
 
 - Ciputra Wangsa <br>
 Data Scientist<br>
-    [GitHub](https://github.com/nirfana) | [LinkedIn](https://www.linkedin.com/in/devinirfana/)
+    [GitHub](https://github.com/ciputrawangsa) | [LinkedIn](https://www.linkedin.com/in/devinirfana/)
 
 - Khalil Zulfar <br>
 Data Engineer<br>
-    [GitHub](https://github.com/UdonUltra) | [LinkedIn](https://www.linkedin.com/in/frederick-kurniawan-putra-389b6a146/)
+    [GitHub](https://github.com/khalilzufar) | [LinkedIn](https://www.linkedin.com/in/frederick-kurniawan-putra-389b6a146/)
 
 --- 
 ## 💾 **Dataset**
