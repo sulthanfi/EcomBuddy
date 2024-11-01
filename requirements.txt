@@ -1,0 +1,10 @@
+streamlit
+openai
+pymongo
+langchain
+cv2
+gtts
+pygame
+tenacity
+python-dotenv
+soundfile
