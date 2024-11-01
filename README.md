@@ -51,11 +51,6 @@ Dalam industri e-commerce yang kompetitif, mempertahankan loyalitas pelanggan me
 Untuk mengatasi tantangan ini, diperlukan solusi yang dapat memberikan pelayanan cepat, personal, dan responsif bagi pelanggan. Chatbot voice dan vision berbasis AI dapat menjadi solusi strategis untuk meningkatkan loyalitas pelanggan dengan memberikan pengalaman yang lebih baik, dukungan 24/7, dan interaksi yang relevan sesuai kebutuhan pelanggan.
 
 ---
-## 🎯 **Objective**
-
-Mengembangkan chatbot berbasis AI untuk meningkatkan loyalitas pelanggan pada platform e-commerce dengan cara menyediakan dukungan pelanggan yang responsif, personal, dan efektif 24/7, serta menciptakan pengalaman pengguna yang lebih interaktif, menyenangkan, dan memuaskan.
-
----
 ## 🚀 **Deployment & Dashboard**
 We deployed our analysis result and predictor model on the web.
 [Deploymnets](https://huggingface.co/spaces/dnirfana/Complaint_Ease?logs=build) | [Dashboard](https://bit.ly/Complaint-Ease-Dashboard)
