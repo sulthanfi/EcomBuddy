@@ -1,3 +1,7 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2mKiLC5p)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=16735103&assignment_repo_type=AssignmentRepo)
+# Final-Project
+
 <!-- [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15332142&assignment_repo_type=AssignmentRepo) -->
 
 
@@ -10,12 +14,12 @@
     <p>Your friendly shopping companion, EcomBuddy is designed to enhance your online shopping experience. With personalized recommendations, real-time support, and insights tailored just for you, this chatbot helps you discover products you'll love while fostering loyalty and preventing churn. Whether you need assistance or just want to chat about the latest trends, EcomBuddy is here to make your shopping journey enjoyable and effortless.</p>
     <br>
 
-![Python](https://badgen.net/badge/Python/3.9.18/blue?)
+![Python](https://badgen.net/badge/Python/3.12.5/blue?)
 ![Streamlit](https://badgen.net/badge/Streamlit/1.10.0/orange?)
 ![Pandas](https://badgen.net/badge/Pandas/1.4.3/blue?)
-![Seaborn](https://badgen.net/badge/Seaborn/0.11.2/green?)
-![Matplotlib](https://badgen.net/badge/Matplotlib/3.5.2/blue?)
-![Scikit-learn](https://badgen.net/badge/scikit-learn/1.4.2/yellow?)
+![Seaborn](https://badgen.net/badge/Seaborn/0.13.2/purple?)
+![Matplotlib](https://badgen.net/badge/Matplotlib/3.9.2/orange?)
+![Scikit-learn](https://badgen.net/badge/scikit-learn/1.5.1/yellow?)
 
 </div>
 
@@ -51,6 +55,6 @@ Dalam industri e-commerce yang kompetitif, mempertahankan loyalitas pelanggan me
 Untuk mengatasi tantangan ini, diperlukan solusi yang dapat memberikan pelayanan cepat, personal, dan responsif bagi pelanggan. Chatbot voice dan vision berbasis AI dapat menjadi solusi strategis untuk meningkatkan loyalitas pelanggan dengan memberikan pengalaman yang lebih baik, dukungan 24/7, dan interaksi yang relevan sesuai kebutuhan pelanggan.
 
 ---
-## 🚀 **Deployment & Dashboard**
-We deployed our analysis result and predictor model on the web.
-[Deploymnets](https://huggingface.co/spaces/dnirfana/Complaint_Ease?logs=build) | [Dashboard](https://bit.ly/Complaint-Ease-Dashboard)
+## 🎯 **Objective**
+
+Mengembangkan chat assistant berbasis AI multi modal untuk meningkatkan loyalitas pelanggan pada platform e-commerce dengan cara menyediakan dukungan pelanggan yang responsif, personal, dan efektif 24/7, serta menciptakan pengalaman pengguna yang lebih interaktif, menyenangkan, dan memuaskan.
